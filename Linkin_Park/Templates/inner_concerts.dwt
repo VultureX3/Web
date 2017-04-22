@@ -1,0 +1,84 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Документ без названия</title>
+<!-- TemplateEndEditable -->
+<link href="../css/style.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<table width="980" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td><img src="../img/shapka.jpg" width="980" height="150"></td>
+  </tr>
+</table>
+<table width="980" height="97" border="0" cellpadding="0" cellspacing="0" id="nav" align="center">
+  <tr valign="bottom" >
+    <td><img src="../img/spacer.gif" width="30" height="1"></td>
+    <td><img src="../img/nav_left.gif" width="21" height="51"></td>
+    <td valign="middle" class="nav"><p><a href="../index.htm">Главная</a></p></td>
+    <td><img src="../img/nav_right.gif" width="24" height="51"></td>
+    <td><img src="../img/spacer.gif" width="60" height="1"></td>
+    <td><img src="../img/nav_left.gif" width="21" height="51"></td>
+    <td valign="middle"  class="nav"><p><a href="../htm/history.htm">История</a></p></td>
+    <td><img src="../img/nav_right.gif" width="24" height="51"></td>
+    <td><img src="../img/spacer.gif" width="60" height="1"></td>
+    <td><img src="../img/nav_left.gif" width="21" height="51"></td>
+    <td valign="middle"  class="nav"><p><a href="../htm/albums/ht.htm">Альбомы</a></p></td>
+    <td><img src="../img/nav_right.gif" width="24" height="51"></td>
+    <td><img src="../img/spacer.gif" width="60" height="1"></td>
+    <td><img src="../img/nav_left.gif" width="21" height="51"></td>
+    <td valign="middle"  class="nav"><p><a href="../htm/concerts.htm" class="active">Концерты</a></p></td>
+    <td><img src="../img/nav_right.gif" width="24" height="51"></td>
+    <td><img src="../img/spacer.gif" width="60" height="1"></td>
+    <td><img src="../img/nav_left.gif" width="21" height="51"></td>
+    <td valign="middle"  class="nav"><p><a href="../htm/video/v_ht.htm">Синглы</a></p></td>
+    <td><img src="../img/nav_right.gif" width="24" height="51"></td>
+    <td width="100%"><img src="../img/spacer.gif" width="1" height="1"></td>
+  </tr>
+</table>
+<table width="980" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td valign="top" id="content"><h1><!-- TemplateBeginEditable name="Header" -->Заголовок<!-- TemplateEndEditable --></h1>
+      <!-- TemplateBeginEditable name="Content" -->
+      <p>Текст текст текст текст текст</p>
+      <!-- TemplateEndEditable --></td>
+    <td width="231" align="right" valign="top"><table width="231" height="809" border="0" cellpadding="0" cellspacing="0" id="aside">
+        <tr>
+          <td><p class="atr">Футболки, кружки, сумки и многое другое</p></td>
+        </tr>
+        <tr>
+          <td><a href="http://lpstore.printdirect.ru/"><img src="../img/atr.gif" width="106" height="122"></a></td>
+        </tr>
+        <tr>
+          <td><p>Вся атрибутика любимой группы <a href="../htm/atr.htm"><em>здесь</em></a></p>
+            <hr></td>
+        </tr>
+        <tr>
+          <td><a href="http://www.linkinpark.com/"><img src="../img/logo.gif" width="119" height="119"></a></td>
+        </tr>
+        <tr>
+          <td align="center"><p><a href="http://www.linkinpark.com/">Официальный сайт</a></p>
+            <hr></td>
+        </tr>
+        <tr>
+          <td id="map"><a href="../htm/map.htm"><img src="../img/map.gif" width="120" height="90" class="map"></a></td>
+        </tr>
+        <tr>
+          <td align="center"><p><a href="../htm/map.htm">Карта сайта</a></p></td>
+        </tr>
+      </table>
+</table>
+<table width="980" height="71" border="0" cellpadding="0" cellspacing="0" id="footer" align="center">
+  <tr>
+    <td><p><a href="http://www.ucvt.org/">www.ucvt.org</a></p></td>
+    <td align="right"><p>Made by Igor Khalepskiy</p></td>
+  </tr>
+</table>
+</body>
+</html>
+
